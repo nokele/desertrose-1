@@ -920,6 +920,13 @@
 	item_color = "chinese"
 	armor = list("melee" = 0, "bullet" = 0, "laser" = 0, "energy" = 0, "bomb" = 0, "bio" = 0, "rad" = 20, "fire" = 20, "acid" = 40)
 
+/obj/item/clothing/under/f13/locust
+	name = "locust uniform"
+	desc = "An ancient pre-war army combat uniform. In use by the locust mercenaries."
+	icon_state = "locust"
+	item_state = "locust"
+	armor = list("melee" = 0, "bullet" = 0, "laser" = 0, "energy" = 0, "bomb" = 0, "bio" = 0, "rad" = 20, "fire" = 20, "acid" = 40)
+
 //Fluff
 
 /obj/item/clothing/under/f13/agent47
@@ -1141,3 +1148,9 @@
 	desc = "This white satin shirt used to be fancy. It used to really catch the light. Now it smells like someone took a piss in the armpits while the golden brown trousers are flare-cut. Normal bell-bottom trousers would be boot-cut, but these are far from normal. They are someone's piss-soaked, cum-stained party pants."
 	icon_state = "jamrock_uniform"
 	item_state = "jamrock_uniform"
+
+/obj/item/clothing/under/f13/keksweater
+	name = "Red Sweater"
+	desc = "A dark red-sweater with some cargo-pants. Perfect for when it just gets too cold down in local air-conditioned areas."
+	icon_state = "brahminsss"
+	item_state = "brahminsss"
